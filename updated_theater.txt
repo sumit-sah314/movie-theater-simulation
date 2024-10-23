@@ -1,0 +1,14 @@
+One Cinemas Theater
+5
+*Theater Rooms*
+Khalto 35 The_Godfather_Part_II
+Texon 25  Gone_with_the_Wind
+Pento 20 Once_Upon_a_Time_in_America
+Irony 50 The_Wolf_of_Wall_Street
+Minto 15 Avatar:_The_Way_of_Water 
+*Pricing*
+11.99
+9.99
+7.99
+6.99
+6.00

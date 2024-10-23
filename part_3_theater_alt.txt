@@ -1,0 +1,14 @@
+Sunset Cinema
+5
+*Theater Rooms*
+Alto 30 Hatchback_to_the_Future
+Nexon 20 Guardians_of_the_Ford_Galaxy
+Vento 25 No_Country_for_Oldsmobiles
+Stardust 40 Moonlight_Serenade
+Lumière 35 City_of_Lights
+*Pricing*
+12.50
+9.75
+8.25
+7.00
+7.50

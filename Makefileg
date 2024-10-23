@@ -1,0 +1,15 @@
+program3.out: movie_simulation_program_3.o movie_simulation_program_3_functions.o
+	g++ -std=c++17 movie_simulation_program_3.o movie_simulation_program_3_functions.o -o program3.out
+
+movie_simulation_program_3_functions.o: movie_simulation_program_3_functions.cpp movie_simulation_program_3.h
+	g++ -std=c++17 -c movie_simulation_program_3_functions.cpp
+
+movie_simulation_program_3.o: movie_simulation_program_3.cpp movie_simulation_program_3.h
+	g++ -std=c++17 -c movie_simulation_program_3.cpp
+
+run:
+	./program3.out
+
+clean:
+	rm *.o
+
